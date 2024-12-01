@@ -20,6 +20,12 @@ For movies, Frankenstein Writer can assist in creating visually striking and emo
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Chain Story](https://github.com/sourceduty/Chain_Story)
+<br>
+[Book Quality](https://github.com/sourceduty/Book_Quality)
+<br>
+[Movie Bookscript](https://github.com/sourceduty/Movie_Bookscript)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
