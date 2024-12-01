@@ -7,6 +7,11 @@
 
 Additionally, Frankenstein Writer excels at editing and enhancing written work. It can polish sections of your text for clarity, grammar, pacing, and style, making it a valuable resource for authors aiming to produce high-quality, publication-ready material. You can use it to refine dialogue, smooth transitions, and maintain consistent tone and narrative flow throughout your manuscript. Moreover, its capabilities extend beyond writing mechanics, delving into world-building, historical accuracy, and technical details to ensure your story is immersive and credible. Whether you need inspiration during writer’s block or detailed feedback on your draft, Frankenstein Writer is a versatile and reliable companion, tailored to help bring your creative endeavors to fruition.
 
+```
+Write a Frankenstein book.
+Write a Frankenstein movie.
+```
+
 #
 ### Frankenstein Stories
 
